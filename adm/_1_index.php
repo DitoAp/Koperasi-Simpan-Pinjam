@@ -23,7 +23,7 @@ $filenya = "index.php";
 
 
 //nilai
-$judul = "DashBoard ADMIN WEB";
+$judul = "SELAMAT DATANG ADMIN!!";
 $judulku = $judul;
 
 
@@ -1230,7 +1230,7 @@ while ($ryuk = mysqli_fetch_assoc($qyuk));
               </div>
 
               <div class="card-footer border-transparent">
-					<a href="u/user.php" class="btn btn-block btn-danger">SELENGKAPNYA >></a>
+					<a href="m/user.php" class="btn btn-block btn-danger">SELENGKAPNYA >></a>
               </div>
               
               <!-- /.card-footer -->
